@@ -32,6 +32,3 @@ The most difficult part was implementing quiz logic using JavaScript. While I di
 - Theme toggle: yep  
 - Quiz section: on work (partially working — main logic sketched)
 - Code: yep = Self-written HTML, CSS and basic JS + tried to make it more semantic
-
- Video
-https://youtu.be/YKIS5Bd8kkA
