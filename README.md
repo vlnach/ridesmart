@@ -34,3 +34,18 @@ The most difficult part was implementing quiz logic using JavaScript. While I di
 - Theme toggle: yep  
 - Quiz section: on work (partially working — main logic sketched)
 - Code: yep = Self-written HTML, CSS and basic JS + tried to make it more semantic
+
+ Live Demo
+
+[Click here to view the project online](https://vlnach.github.io/ridesmart/)
+
+ Project Structure
+
+index.html → Main HTML structure
+style.css → Styling (light/dark theme)
+script.js → JS logic (theme toggle, quiz)
+
+ How to Use / Test Locally
+
+You can download or clone this repository and open `index.html` directly in your browser.
+
