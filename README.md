@@ -4,6 +4,8 @@ A Pen created on CodePen.
 
 Original URL: [https://codepen.io/VLAD-NACHIKOV/pen/NPWOGEw](https://codepen.io/VLAD-NACHIKOV/pen/NPWOGEw).
 
+![RideSmart Screenshot](screenshot.png)
+
 # RideSmart – Learn Cycling Rules in the Netherlands
 
  About the project
