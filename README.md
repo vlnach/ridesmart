@@ -5,6 +5,7 @@ A Pen created on CodePen.
 Original URL: [https://codepen.io/VLAD-NACHIKOV/pen/NPWOGEw](https://codepen.io/VLAD-NACHIKOV/pen/NPWOGEw).
 
 ![RideSmart Screenshot](screenshot.png)
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/755fb09d-bb29-4286-94f4-3632a2798bf2" />
 
 # RideSmart – Learn Cycling Rules in the Netherlands
 
