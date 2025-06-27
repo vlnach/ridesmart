@@ -1,4 +1,4 @@
-// Темная тема
+// Dark Theme
 document.getElementById('toggleTheme').addEventListener('click', () => {
   document.body.classList.toggle('dark-mode');
 });
